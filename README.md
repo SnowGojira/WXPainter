@@ -4,5 +4,5 @@
 
 # API
 
-^paint1-font^    自定义字体使用了ios的平方字体。
+`paint1-font`    自定义字体使用了ios的平方字体。
 paint2-gradientHeader     使用了渐变色作为标题。
